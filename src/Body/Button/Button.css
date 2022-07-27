@@ -1,0 +1,10 @@
+.resume-button{
+	background-color: transparent;
+	border: none;
+	padding: 0.5rem 2rem;
+
+	background: var(--primary);
+	border: 1px solid rgba(179, 240, 255, 0.85);
+	box-shadow: inset -2px -36px 70px rgba(7, 152, 188, 0.55), inset 0px -36px 67px rgba(20, 124, 150, 0.55);
+	border-radius: 0.5rem;
+}

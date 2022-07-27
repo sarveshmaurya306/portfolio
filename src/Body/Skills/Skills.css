@@ -1,0 +1,25 @@
+.img-responsive{
+	width: 2.5vw;
+}
+
+
+@media only screen and (max-width:1000px){
+	.img-responsive{
+		width: 85%;
+	}
+
+}
+
+@media only screen and (max-width:800px) {
+	.img-responsive{
+		width: 80%;
+	}
+
+}
+
+@media only screen and (max-width:600px) {
+	.img-responsive{
+		width: 75%;
+	}
+
+}
