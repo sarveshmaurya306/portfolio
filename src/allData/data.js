@@ -1,7 +1,7 @@
 const linkedInUrl= "https://www.linkedin.com/in/sarvseesh/";
 const githubUrl="https://github.com/sarveshmaurya306";
-const resumeUrl= "https://drive.google.com/file/d/1I_x35MId6yn_7WJORcNKLr0iMP8_SgJ0/view?usp=sharing";
-const leetcodeUrl="https://leetcode.com/sarveshmaurya306";
+const resumeUrl= "https://drive.google.com/file/d/157u0EM7ERT6iCj7uqULuPooApTwQrqDO/view?usp=share_link";
+const leetcodeUrl="https://leetcode.com/sarvseesh";
 
 
 const allProjects=[
