@@ -1,6 +1,6 @@
 const linkedInUrl= "https://www.linkedin.com/in/sarvseesh/";
 const githubUrl="https://github.com/sarveshmaurya306";
-const resumeUrl= "https://drive.google.com/file/d/1TNs6Qmn-TdpfTRpRbl2Tt9XbTvE012jt/view?usp=share_link";
+const resumeUrl= "https://drive.google.com/file/d/1D5VSageQILMSpBWLemexxcG_SG-s03xB/view?usp=drive_link";
 
 const leetcodeUrl="https://leetcode.com/sarvseesh";
 
@@ -16,7 +16,7 @@ const allProjects=[
 		"heading":"KIET Talks Web Apps", 
 		"desc":"This is social media like application only for KIET college student with real time chatting feature.",
 		"tech":["javascript", "react", "mongodb", "nodejs", "socketio","bootstrap"],
-		"link":"https://kiettalks.herokuapp.com"
+		"link":"https://kiettalks.onrender.com/"
 	},{
 		"heading":"Dethub-UI",
 		"desc":"Built dethub home ui to brush up the skills. Also added PWA support to the webside for the sake of enjoyment.",
